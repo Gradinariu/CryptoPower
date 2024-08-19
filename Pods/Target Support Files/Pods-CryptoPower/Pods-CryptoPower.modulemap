@@ -1,0 +1,6 @@
+framework module Pods_CryptoPower {
+  umbrella header "Pods-CryptoPower-umbrella.h"
+
+  export *
+  module * { export * }
+}
